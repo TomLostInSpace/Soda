@@ -8,12 +8,12 @@ body{
     top: 0;
     bottom: 0;
 
-    background-image: url("/Soda/assets/img.png");
+    background-image: url("/assets/img.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 
-    height: 100%;
+    height: auto;
     width: 100%;
 
     
@@ -25,8 +25,7 @@ body{
     align-items: center;
 }
 model-viewer{
-    bottom: 20px;
-    width: 500px;
-    height: 1000px;
+    width: 350px;
+    height: 600px;
     margin: auto;    
 }
