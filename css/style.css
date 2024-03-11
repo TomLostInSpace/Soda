@@ -8,7 +8,7 @@ body{
     top: 0;
     bottom: 0;
 
-    background-image: url("Soda/assets/img.png");
+    background-image: url("/Soda/assets/img.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
